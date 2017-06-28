@@ -1,0 +1,34 @@
+{
+  "name": "loopbackmongodb",
+  "version": "1.0.0",
+  "description": "a simple loopback server",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.2",
+    "loopback-cli": "^2.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabenWH/DokikiraDB.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Devan Wheeler <dvnwheeler@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabenWH/DokikiraDB/issues"
+  },
+  "homepage": "https://github.com/GabenWH/DokikiraDB#readme"
+}
